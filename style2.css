@@ -1,0 +1,18 @@
+.conteiner{ display: flex;
+    flex-direction: row;
+    background-color: rgb(226, 136, 136);
+   
+    align-items: flex-end;
+}
+.item{
+    background-color: rgb(0, 0, 0);
+    margin: 20px;
+    color: yellow;
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 200px;
+    
+   }
+head{
+    color: aquamarine;
+}
